@@ -1,7 +1,7 @@
 # Production dependencies for A2A Agent Registry
 
 # Core framework
-fastapi==0.104.1
+fastapi==0.116.2
 uvicorn[standard]==0.24.0
 
 # Database
